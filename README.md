@@ -4,8 +4,7 @@
 
 -----
 注意！我们只允许你修改以下文件，对其他文件的修改会被拒绝：
-- [src/main/java/Cat.java](https://github.com/hcsp/create-an-empty-class/blob/master/src/main/java/Cat.java)
------
+- src/main/java/Cat.java
 
 
 
